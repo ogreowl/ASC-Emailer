@@ -98,4 +98,4 @@ def send_emails_based_on_csv(service, filename, from_address):
 service = get_service()
 
 # Change to your email and your csv file!
-send_emails_based_on_csv(service, 'YOUR_FILE.csv', 'YOUR_EMAIL@beckershealthcare.com')
+send_emails_based_on_csv(service, 'data.csv', 'YOUR_EMAIL@beckershealthcare.com')
